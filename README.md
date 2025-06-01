@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @trivektor
-- 👀 I’m interested in JavaScript, Ruby, and Go
-- 🌱 I’m currently learning Go
-- 📫 Follow me on https://twitter.com/trivektor
+- 👀 I’m interested in JavaScript, Ruby, PHP
+- 🌱 I’m currently learning to build MCP servers
